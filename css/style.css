@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Turret+Road:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&family=Satisfy&display=swap');
 *
 {
     margin: 0;
     padding: 0;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Open Sans', sans-serif;
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
