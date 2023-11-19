@@ -17,13 +17,13 @@
    
    
 }
-.dark-theme
+/* .dark-theme
 {
     --primary-color: #0f1531;
     --secondary-color: #fff;
     --accent-color: #fd3;
 
-}
+} */
 
 button
 {
@@ -101,7 +101,7 @@ body
 {
     transform: scaleX(1);
 }
-#icon
+/* #icon
 {
     width: 30px;
     height: 30px;
@@ -109,9 +109,9 @@ body
     cursor: pointer;
     margin: 45px 45px 0;
     right: 100px;
-    /* fill: #fff; */
     
-}
+    
+} */
 section
 {
     width: 100%;
