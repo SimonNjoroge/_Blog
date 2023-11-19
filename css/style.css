@@ -38,7 +38,7 @@ button
 }
 button:hover
 {
-    transform: scale(1.2);
+    transform: scale(1.1);
     transition:.5s ease-in-out ;
 }
 
@@ -146,12 +146,7 @@ span
     right: 0;
     
 }
-.home img:hover
-{
-    transition: ease-in-out 2s;
-    transform-origin: center;
-    transform: scale(1.2);
-}
+
 @media (max-width:960px) {
    
     .home
