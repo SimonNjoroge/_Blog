@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Open+Sans:ital,wght@0,300;1,300&family=Satisfy&display=swap');
 *
 {
     margin: 0;
     padding: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Abel', sans-serif;
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
@@ -203,6 +203,21 @@ span
     .home img
     {
         margin-top: 30px;
+    }
+}
+@media (max-width: 480px) {
+    .home img
+    {
+        margin-top: 30px;
+    }
+    .navList a
+    {
+        font-size: 12px;
+        display: inline-block;
+        padding: 8px 3px;
+        position: relative;
+        margin-left: 0;
+        margin-top: 35px;
     }
 }
 @media (max-width:405px) {
